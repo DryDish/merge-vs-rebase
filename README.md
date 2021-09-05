@@ -6,4 +6,5 @@ Testing ground for different ways to handle multiple branches
 * merged feature2 to main with no weirdness
 * needed to merge main into feature1 before we could merge back into main
 
-
+# finally:
+* now i made two feature branches and squashed them and then rebased them into main
