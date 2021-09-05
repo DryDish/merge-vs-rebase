@@ -7,11 +7,6 @@ fn main() {
     println!("new entity, returned: {}", new_thing_returned);
 }
 
-fn cool_func(something: &str) {
-    println!("Here is your something:");
-    println!("{}, cool right?", something);
-}
-
 fn other_func<T>(returnable: T) -> T {
     println!("here is your thing back");
     returnable
