@@ -1,8 +1,8 @@
 fn main() {
-    let something_to_pass = "HERE YOU GO!";
+    let something_else = "HERE YOU GO!";
     let thing_to_return = "here we are";
 
-    cool_func(something_to_pass);
+    cool_func(something_else);
     let new_thing_returned = other_func(thing_to_return);
     println!("new entity, returned: {}", new_thing_returned);
 }
