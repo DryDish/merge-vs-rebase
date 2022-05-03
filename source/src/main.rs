@@ -1,4 +1,5 @@
 fn main() {
+    let something_else = "HERE YOU GO!";
     let something_other = "HERE YOU GO!";
     let thing_to_return = "here we are";
 
